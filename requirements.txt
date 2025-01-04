@@ -1,0 +1,7 @@
+streamlit 
+phidata
+openai
+yfinance
+googletrans==4.0.0-rc1
+accelerate
+bitsandbytes
